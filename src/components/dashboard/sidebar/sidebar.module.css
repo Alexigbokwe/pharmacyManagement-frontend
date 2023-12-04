@@ -1,0 +1,14 @@
+.a { color: white; }
+
+.currentPage{
+  background-color: rgb(3, 64, 64) !important;
+}
+
+.sidebarHeight {
+    min-height: 100vh
+}
+
+
+.sidebarAccordionItem {
+  background-color: gray;
+}
